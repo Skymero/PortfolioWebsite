@@ -1,0 +1,5 @@
+setup.py
+selenium.egg-info/PKG-INFO
+selenium.egg-info/SOURCES.txt
+selenium.egg-info/dependency_links.txt
+selenium.egg-info/top_level.txt

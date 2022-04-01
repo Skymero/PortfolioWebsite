@@ -1,0 +1,5 @@
+setup.py
+astroid.egg-info/PKG-INFO
+astroid.egg-info/SOURCES.txt
+astroid.egg-info/dependency_links.txt
+astroid.egg-info/top_level.txt

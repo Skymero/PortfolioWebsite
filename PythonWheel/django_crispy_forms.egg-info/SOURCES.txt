@@ -1,0 +1,5 @@
+setup.py
+django_crispy_forms.egg-info/PKG-INFO
+django_crispy_forms.egg-info/SOURCES.txt
+django_crispy_forms.egg-info/dependency_links.txt
+django_crispy_forms.egg-info/top_level.txt

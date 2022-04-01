@@ -1,0 +1,5 @@
+setup.py
+Django.egg-info/PKG-INFO
+Django.egg-info/SOURCES.txt
+Django.egg-info/dependency_links.txt
+Django.egg-info/top_level.txt

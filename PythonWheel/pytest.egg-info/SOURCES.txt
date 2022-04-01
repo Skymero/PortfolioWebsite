@@ -1,0 +1,5 @@
+setup.py
+pytest.egg-info/PKG-INFO
+pytest.egg-info/SOURCES.txt
+pytest.egg-info/dependency_links.txt
+pytest.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+pylint.egg-info/PKG-INFO
+pylint.egg-info/SOURCES.txt
+pylint.egg-info/dependency_links.txt
+pylint.egg-info/top_level.txt

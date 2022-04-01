@@ -1,0 +1,5 @@
+setup.py
+chardet.egg-info/PKG-INFO
+chardet.egg-info/SOURCES.txt
+chardet.egg-info/dependency_links.txt
+chardet.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+hive.egg-info/PKG-INFO
+hive.egg-info/SOURCES.txt
+hive.egg-info/dependency_links.txt
+hive.egg-info/top_level.txt

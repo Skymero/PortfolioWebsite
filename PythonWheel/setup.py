@@ -1,0 +1,158 @@
+import setuptools
+
+#RUN IN COMMAND WINDOW "python3 setup.py sdist bdist_wheel"
+#GENERATES WHL FILES IN "dist" FOLDER TO BE MOVED TO "pypi_packages" FOLDER
+
+#CAUTION : ADD PACKAGE AND VERSION TO "requirements.txt" IN "pypi_packages" FOLDER AS WELL AS SETUP BELOW
+#WILL ALSO NEED TO RE-RUN "createvenv.ps1" & "activatevenv.ps1"
+
+setuptools.setup(
+    name="Pillow",
+    version="9.0.1",
+    packages=setuptools.find_packages(),
+    python_requires='>=9.0.1',
+)
+setuptools.setup(
+    name="django-crispy-forms",
+    version="1.13",
+    packages=setuptools.find_packages(),
+    python_requires='>=1.13',
+)
+setuptools.setup(
+    name="Django",
+    version="4.0.1",
+    packages=setuptools.find_packages(),
+    python_requires='>=4.0.1',
+)
+setuptools.setup(
+    name="astroid",
+    version="2.3.3",
+    packages=setuptools.find_packages(),
+    python_requires='>=2.3.3',
+)
+setuptools.setup(
+    name="atomicwrites",
+    version="1.4.0",
+    packages=setuptools.find_packages(),
+    python_requires='>=1.4.0',
+)
+setuptools.setup(
+    name="beautifulsoup4",
+    version="4.9.1",
+    packages=setuptools.find_packages(),
+    python_requires='>=4.9.1',
+)
+setuptools.setup(
+    name="chardet",
+    version="3.0.4",
+    packages=setuptools.find_packages(),
+    python_requires='>=3.0.4',
+)
+setuptools.setup(
+    name="colorama",
+    version="0.4.3",
+    packages=setuptools.find_packages(),
+    python_requires='>=0.4.3',
+)
+setuptools.setup(
+    name="iniconfig",
+    version="1.0.0",
+    packages=setuptools.find_packages(),
+    python_requires='>=1.0.0',
+)
+setuptools.setup(
+    name="isort",
+    version="4.3.21",
+    packages=setuptools.find_packages(),
+    python_requires='>=4.3.21',
+)
+setuptools.setup(
+    name="ixml",
+    version="4.5.1",
+    packages=setuptools.find_packages(),
+    python_requires='>=4.5.1',
+)
+setuptools.setup(
+    name="mccabe",
+    version="0.6.1",
+    packages=setuptools.find_packages(),
+    python_requires='>=0.6.1',
+)
+setuptools.setup(
+    name="more-itertools",
+    version="8.4.0",
+    packages=setuptools.find_packages(),
+    python_requires='>=8.4.0',
+)
+setuptools.setup(
+    name="packaging",
+    version="20.4",
+    packages=setuptools.find_packages(),
+    python_requires='>=20.4',
+)
+setuptools.setup(
+    name="pluggy",
+    version="0.13.1",
+    packages=setuptools.find_packages(),
+    python_requires='>=0.13.1',
+)
+setuptools.setup(
+    name="py",
+    version="1.9.0",
+    packages=setuptools.find_packages(),
+    python_requires='>=1.9.0',
+)
+setuptools.setup(
+    name="pylint",
+    version="2.4.4",
+    packages=setuptools.find_packages(),
+    python_requires='>=2.4.4',
+)
+setuptools.setup(
+    name="pymongo",
+    version="3.11.3",
+    packages=setuptools.find_packages(),
+    python_requires='>=3.11.3',
+)
+setuptools.setup(
+    name="pytest",
+    version="6.0.0",
+    packages=setuptools.find_packages(),
+    python_requires='>=6.0.0',
+)
+setuptools.setup(
+    name="pytz",
+    version="2021.1",
+    packages=setuptools.find_packages(),
+    python_requires='>=2021.1',
+)
+setuptools.setup(
+    name="requests",
+    version="2.24.0",
+    packages=setuptools.find_packages(),
+    python_requires='>=2.24.0',
+)
+setuptools.setup(
+    name="urllib3",
+    version="1.25.10",
+    packages=setuptools.find_packages(),
+    python_requires='>=1.25.10',
+)
+setuptools.setup(
+    name="selenium",
+    version="4.0.0",
+    packages=setuptools.find_packages(),
+    python_requires='>=4.0',
+)
+setuptools.setup(
+    name="selenium",
+    version="4.0.0",
+    packages=setuptools.find_packages(),
+    python_requires='>=4.0',
+)
+setuptools.setup(
+    name="Faker",
+    version="4.1.1",
+    packages=setuptools.find_packages(),
+    python_requires='>=4.1.1',
+)

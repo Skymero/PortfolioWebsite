@@ -1,0 +1,5 @@
+setup.py
+isort.egg-info/PKG-INFO
+isort.egg-info/SOURCES.txt
+isort.egg-info/dependency_links.txt
+isort.egg-info/top_level.txt

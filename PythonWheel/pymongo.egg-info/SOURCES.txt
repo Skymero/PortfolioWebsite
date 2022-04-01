@@ -1,0 +1,5 @@
+setup.py
+pymongo.egg-info/PKG-INFO
+pymongo.egg-info/SOURCES.txt
+pymongo.egg-info/dependency_links.txt
+pymongo.egg-info/top_level.txt
