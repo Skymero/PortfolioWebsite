@@ -31,12 +31,15 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+#add a string here anytime you add a new app to your project and also looks for our models    
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'blog.apps.BlogConfig',
+    
 ]
 
 MIDDLEWARE = [
